@@ -92,6 +92,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[Matheus Fogiatto](https://www.instagram.com/matheus.fogiatto)|[GitHub](https://github.com/matheusfogiatto/TheHealthJourney)|[Youtube](https://youtu.be/OtrIBNOJ2AE)|SpriteKit|Accepted|
 |[Matt Free](https://github.com/MJFree34/)|[GitHub](https://github.com/MJFree34/MusicChordTeacher/)||AVFoundation, UIKit|Rejected|
 |[Maxime Madrau](https://www.instagram.com/maxmad682)|[GitHub](https://github.com/Maxmad68/SwiftStudentChallenge2020)||SpriteKit, PencilKit|Accepted|
+|[Michael Winailan](https://linkedin.com/in/michaelwinailan/)|[Github](https://github.com/michaelwinailan/macvoyage)||UIKit, AVFoundation |Accepted|
 |[Michał Cichecki](https://linkedin.com/in/mcichecki/)|[Github](https://github.com/mcichecki/emoji-rebus)||AppKit, AVFoundation, SpriteKit|Accepted|
 |[Mike Ovyan](https://github.com/ovyan)|[GitHub](https://github.com/ovyan/graph_path)||UIKit|Accepted|
 |[Minhyuk Kim](https://github.com/mininny)|[Github](https://github.com/mininny/RockPaperScissors-WWDC20)||ARKit,CoreML, Vision, UIKit|Accepted|
